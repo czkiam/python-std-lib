@@ -12,7 +12,7 @@ print c['lemons']
 
 prose = "Python is so easy to learn and use, that it also might be easy to re-invent the wheel for common tasks. Resist the temptation as the Python Standard Library might have you covered!"
 prose = prose.lower()
-words =prose.split(' ');
+words = prose.split(' ')
 prose_count = Counter()
 
 for word in words:
