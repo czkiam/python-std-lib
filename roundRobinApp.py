@@ -19,4 +19,3 @@ while len(jq) > 0:
     jq.rotate(1)
 
 print('All job have been completed')
-
